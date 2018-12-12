@@ -37,18 +37,18 @@ if(isset($_POST['submitted']))
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	
-	<title>2018 Custom Uniform</title>
-	
+
+	<title>2019 Custom Uniform</title>
+
 	<!-- Favicons -->
 	<link rel="shortcut icon" href="assets/images/favicon.png">
 	<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
-	
+
 	<!-- Bootstrap core CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	
+
 	<!-- Plugins -->
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
 	<link href="assets/css/ionicons.min.css" rel="stylesheet">
@@ -59,18 +59,18 @@ if(isset($_POST['submitted']))
 	<link href="assets/css/vertical.css" rel="stylesheet">
 	<link href="assets/css/animate.css" rel="stylesheet">
 	<link href="contact.css" type="text/css" rel="stylesheet">
-      
+
 
 	<!-- Template core CSS -->
 	<link href="assets/css/style.css" rel="stylesheet">
-    
+
     <script type='text/javascript' src='scripts/gen_validatorv31.js'></script>
     <script type='text/javascript' src='scripts/fg_captcha_validator.js'></script>
     <script type="text/javascript">
 var iWebkit;if(!iWebkit){iWebkit=window.onload=function(){function fullscreen(){var a=document.getElementsByTagName("a");for(var i=0;i<a.length;i++){if(a[i].className.match("noeffect")){}else{a[i].onclick=function(){window.location=this.getAttribute("href");return false}}}}function hideURLbar(){window.scrollTo(0,0.9)}iWebkit.init=function(){fullscreen();hideURLbar()};iWebkit.init()}}
 function MM_showHideLayers() { //v9.0
   var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) 
+  for (i=0; i<(args.length-2); i+=3)
   with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
     if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
     obj.visibility=v; }
@@ -239,7 +239,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #fucbase1 {
 	position:absolute;
 	width:290px;
@@ -384,7 +384,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #limbase1 {
 	position:absolute;
 	width:290px;
@@ -645,7 +645,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #turbase1 {
 	position:absolute;
 	width:290px;
@@ -840,7 +840,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #fucsho1 {
 	position:absolute;
 	width:290px;
@@ -869,7 +869,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 
 #gldsho1 {
 	position:absolute;
@@ -957,7 +957,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #lemsho1 {
 	position:absolute;
 	width:290px;
@@ -986,7 +986,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 
 #limsho1 {
 	position:absolute;
@@ -1219,7 +1219,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 #tngsho1 {
 	position:absolute;
 	width:290px;
@@ -1248,7 +1248,7 @@ function MM_showHideLayers() { //v9.0
 	top: 0px;
 	visibility: hidden;
 }
-	
+
 
 #tursho1 {
 	position:absolute;
@@ -1500,14 +1500,14 @@ function MM_showHideLayers() { //v9.0
 	<div id="overlay-menu" class="overlay-menu">
 
 		<a href="#" id="overlay-menu-hide" class="navigation-hide"><i class="ion-close-round"></i></a>
-		
+
 		<div class="overlay-menu-inner">
 			<nav class="overlay-menu-nav">
-		
+
 				<ul id="nav">
-		
+
 					<li><a href="index.html">Home</a></li>
-		
+
 					<li class="slidedown">
 						<a href="#">Pattern 1</a>
 						<ul>
@@ -1515,48 +1515,48 @@ function MM_showHideLayers() { //v9.0
 							<li><a href="des2.php">Design 2</a></li>
 						</ul>
 					</li>
-                    
+
                     <li class="slidedown">
 						<a href="#">Pattern 2</a>
 						<ul>
 							<li><a href="des3.php">Design 1</a></li>
-                            <li><a href="des4.php">Design 2</a></li>
+              <li><a href="des4.php">Design 2</a></li>
 						</ul>
 					</li>
 					<li class="slidedown">
 						<a href="#">Pattern 3</a>
 						<ul>
 							<li><a href="des3.php">Design 1</a></li>
-                            <li><a href="des4.php">Design 2</a></li>
+              <li><a href="des4.php">Design 2</a></li>
 						</ul>
 					</li>
-					<li class="slidedown">
+					<!-- <li class="slidedown">
 						<a href="#">Pattern 4</a>
 						<ul>
 							<li><a href="des3.php">Design 1</a></li>
-                            <li><a href="des4.php">Design 2</a></li>
+             <li><a href="des4.php">Design 2</a></li>
 						</ul>
-					</li>
-		
+					</li> -->
+
 				</ul>
-		
+
 			</nav>
 		</div>
-		
+
 		<div class="overlay-navigation-footer">
-		
+
 			<div class="container">
-		
+
 				<div class="row">
-		
+
 					<div class="col-sm-12 text-center">
-						<p class="copyright font-alt m-b-0">© 2018 SCORE, All Rights Reserved.</p>
+						<p class="copyright font-alt m-b-0">© 2019 SCORE, All Rights Reserved.</p>
 					</div>
-		
+
 				</div>
-		
+
 			</div>
-		
+
 		</div>
 
 	</div>
@@ -1569,14 +1569,14 @@ function MM_showHideLayers() { //v9.0
 		<nav class="navbar navbar-custom navbar-transparent navbar-light navbar-fixed-top">
 
 			<div class="container">
-			
+
 				<div class="navbar-header" >
 					<!-- YOU LOGO HERE -->
 					<a class="navbar-brand" href="index.html">
-						<h3>2018 Custom Uniform</h3>
+						<h3>2019 Custom Uniform</h3>
 					</a>
 				</div>
-			
+
 				<!-- ICONS NAVBAR -->
 				<ul id="icons-navbar" class="nav navbar-nav navbar-right">
 					<li>
@@ -1588,14 +1588,14 @@ function MM_showHideLayers() { //v9.0
 					</li>
 				</ul>
 				<!-- /ICONS NAVBAR -->
-			
+
 				<ul class="extra-navbar nav navbar-nav navbar-right">
 					<li><div class="dropdown">
                       <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Pattern 1
                       <span class="caret"></span></button>
                       <ul class="dropdown-menu">
                         <li><a href="des1.php">Design 1</a></li>
-						<li><a href="des2.php">Design 2</a></li>
+						            <li><a href="des2.php">Design 2</a></li>
                       </ul>
                     </div></li>
                     <li><div class="dropdown">
@@ -1614,17 +1614,17 @@ function MM_showHideLayers() { //v9.0
                         <li><a href="des6.php">Design 2</a></li>
                       </ul>
                     </div></li>
-                    <li><div class="dropdown">
+                    <!-- <li><div class="dropdown">
                       <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Pattern 4
                       <span class="caret"></span></button>
                       <ul class="dropdown-menu">
                         <li><a href="des7.php">Design 1</a></li>
                         <li><a href="des8.php">Design 2</a></li>
                       </ul>
-                    </div></li>
-					
+                    </div></li> -->
+
 				</ul>
-			
+
 			</div>
 
 		</nav>
@@ -1648,23 +1648,23 @@ function MM_showHideLayers() { //v9.0
 
 		</section>
 		 /HERO -->
-		
+
         <!-- /SINGLE PORTFOLIO -->
         <section class="module">
 
 			<div class="container">
         <div class="row">
-        	
+
         		<center style="padding:20px" >
         		<h1>Pattern 2 Design 1</h1>
-        		<p>The 2018 Custom Uniform Collection features new designs you can customize for your league. Our premium quality uniforms offer comfort and style on the field. Contact a SCORE Sales Rep at 800.626.7774 to get started building your custom uniform. <br>
+        		<p>The 2019 Custom Uniform Collection features new designs you can customize for your league. Our premium quality uniforms offer comfort and style on the field. Contact a SCORE Sales Rep at 800.626.7774 to get started building your custom uniform. <br>
         		  <a href="http://www.scoresports.com"><font color="#ed1b24"><br><a href="http://www.scoresports.com"><font color="#ed1b24" size="+1">SCOREsports.com </font></a><font color="#ed1b24" size="+1">-</font> <a href="tel:8006267774"><font color="#ed1b24" size="+1"> 800.626.7774</font></a>
         		</p></center>
-        	
+
         </div>
 		</div>
         </section>
-        
+
 		<!-- SINGLE PORTFOLIO -->
 		<section class="module">
 
@@ -1695,9 +1695,9 @@ function MM_showHideLayers() { //v9.0
 					<!-- Uniform Created -->
 					<div class="col-sm-6 col-md-4 m-b-sm-30">
 						<div align="center" style="margin:auto; height:600px; width:290px">
-                            <div id="blksoc"><img src="img/P1D1/SOCK/828-BLKWHT.png" width="290" height="400" /></div>
+                            <!-- <div id="blksoc"><img src="img/P1D1/SOCK/828-BLKWHT.png" width="290" height="400" /></div>
                             <div id="bursoc"><img src="img/P1D1/SOCK/828-BURWHT.png" width="290" height="400" /></div>
-                            <div id="chrsoc"><img src="img/P1D1/SOCK/828-CHRBLK.png" width="290" height="400" /></div>   
+                            <div id="chrsoc"><img src="img/P1D1/SOCK/828-CHRBLK.png" width="290" height="400" /></div>
                             <div id="colsoc"><img src="img/P1D1/SOCK/828-COLBLK.png" width="290" height="400" /></div>
                             <div id="gldsoc"><img src="img/P1D1/SOCK/828-GLDBLK.png" width="290" height="400" /></div>
                             <div id="hunsoc"><img src="img/P1D1/SOCK/828-HUNBLK.png" width="290" height="400" /></div>
@@ -1711,106 +1711,106 @@ function MM_showHideLayers() { //v9.0
                             <div id="whusoc"><img src="img/P1D1/SOCK/828-WHTHUN.png" width="290" height="400" /></div>
                             <div id="wnasoc"><img src="img/P1D1/SOCK/828-WHTNAV.png" width="290" height="400" /></div>
                             <div id="wresoc"><img src="img/P1D1/SOCK/828-WHTRED.png" width="290" height="400" /></div>
-                            <div id="wrosoc"><img src="img/P1D1/SOCK/828-WHTROY.png" width="290" height="400" /></div>
-                            <div id="wwhsoc"><img src="img/P1D1/SOCK/828-WHTWHT.png" width="290" height="400" /></div>
+                            <div id="wrosoc"><img src="img/P1D1/SOCK/828-WHTROY.png" width="290" height="400" /></div> -->
+                            <!-- <div id="wwhsoc"><img src="img/P1D1/SOCK/828-WHTWHT.png" width="290" height="400" /></div> -->
 
-                            
-                            <div id="blksho1"><img src="img/P2D1/SHORT/design1-short-blk1.png" width="290" height="400" /></div>
-                            <div id="bursho1"><img src="img/P2D1/SHORT/design1-short-bur1.png" width="290" height="400" /></div>
-                            <div id="chasho1"><img src="img/P2D1/SHORT/design1-short-cha1.png" width="290" height="400" /></div>
-                            <div id="chrsho1"><img src="img/P2D1/SHORT/design1-short-chr1.png" width="290" height="400" /></div>  
-                            <div id="colsho1"><img src="img/P2D1/SHORT/design1-short-col1.png" width="290" height="400" /></div>
-                            <div id="gldsho1"><img src="img/P2D1/SHORT/design1-short-gld1.png" width="290" height="400" /></div>  
-                            <div id="hunsho1"><img src="img/P2D1/SHORT/design1-short-hun1.png" width="290" height="400" /></div>
-                            <div id="kelsho1"><img src="img/P2D1/SHORT/design1-short-kel1.png" width="290" height="400" /></div>
-                            <div id="limsho1"><img src="img/P2D1/SHORT/design1-short-lim1.png" width="290" height="400" /></div>
-                            <div id="navsho1"><img src="img/P2D1/SHORT/design1-short-nav1.png" width="290" height="400" /></div>
-                            <div id="orgsho1"><img src="img/P2D1/SHORT/design1-short-org1.png" width="290" height="400" /></div>
-                            <div id="pnksho1"><img src="img/P2D1/SHORT/design1-short-pnk1.png" width="290" height="400" /></div>
-                            <div id="pursho1"><img src="img/P2D1/SHORT/design1-short-pur1.png" width="290" height="400" /></div>
-                            <div id="redsho1"><img src="img/P2D1/SHORT/design1-short-red1.png" width="290" height="400" /></div>
-                            <div id="roysho1"><img src="img/P2D1/SHORT/design1-short-roy1.png" width="290" height="400" /></div>
-                            <div id="silsho1"><img src="img/P2D1/SHORT/design1-short-sil1.png" width="290" height="400" /></div>
-                            <div id="tursho1"><img src="img/P2D1/SHORT/design1-short-tur1.png" width="290" height="400" /></div>
-                            <div id="whtsho1"><img src="img/P2D1/SHORT/design1-short-wht1.png" width="290" height="400" /></div>
-                            
-                            <div id="blksho2"><img src="img/P2D1/SHORT/design1-short-blk2.png" width="290" height="400" /></div>
-                            <div id="bursho2"><img src="img/P2D1/SHORT/design1-short-bur2.png" width="290" height="400" /></div>
-                            <div id="chasho2"><img src="img/P2D1/SHORT/design1-short-cha2.png" width="290" height="400" /></div>
-                            <div id="chrsho2"><img src="img/P2D1/SHORT/design1-short-chr2.png" width="290" height="400" /></div>  
-                            <div id="colsho2"><img src="img/P2D1/SHORT/design1-short-col2.png" width="290" height="400" /></div>
-                            <div id="fucsho2"><img src="img/P2D1/SHORT/design1-short-fuc2.png" width="290" height="400" /></div>
-                            <div id="gldsho2"><img src="img/P2D1/SHORT/design1-short-gld2.png" width="290" height="400" /></div>  
-                            <div id="hunsho2"><img src="img/P2D1/SHORT/design1-short-hun2.png" width="290" height="400" /></div>
-                            <div id="kelsho2"><img src="img/P2D1/SHORT/design1-short-kel2.png" width="290" height="400" /></div>
-                            <div id="lemsho2"><img src="img/P2D1/SHORT/design1-short-lem2.png" width="290" height="400" /></div>
-                            <div id="limsho2"><img src="img/P2D1/SHORT/design1-short-lim2.png" width="290" height="400" /></div>
-                            <div id="navsho2"><img src="img/P2D1/SHORT/design1-short-nav2.png" width="290" height="400" /></div>
-                            <div id="orgsho2"><img src="img/P2D1/SHORT/design1-short-org2.png" width="290" height="400" /></div>
-                            <div id="pnksho2"><img src="img/P2D1/SHORT/design1-short-pnk2.png" width="290" height="400" /></div>
-                            <div id="pursho2"><img src="img/P2D1/SHORT/design1-short-pur2.png" width="290" height="400" /></div>
-                            <div id="redsho2"><img src="img/P2D1/SHORT/design1-short-red2.png" width="290" height="400" /></div>
-                            <div id="roysho2"><img src="img/P2D1/SHORT/design1-short-roy2.png" width="290" height="400" /></div>
-                            <div id="silsho2"><img src="img/P2D1/SHORT/design1-short-sil2.png" width="290" height="400" /></div>
-                            <div id="tursho2"><img src="img/P2D1/SHORT/design1-short-tur2.png" width="290" height="400" /></div>
-                            <div id="tngsho2"><img src="img/P2D1/SHORT/design1-short-tng2.png" width="290" height="400" /></div>
-                            <div id="whtsho2"><img src="img/P2D1/SHORT/design1-short-wht2.png" width="290" height="400" /></div>
-                             
-                            
-                            
-                            
-                            <div id="blkbase1"><img src="img/P2D1/JERSEY/design1-blk1.png" width="290" height="400" /></div>
-                            <div id="burbase1"><img src="img/P2D1/JERSEY/design1-bur1.png" width="290" height="400" /></div>
-                            <div id="chabase1"><img src="img/P2D1/JERSEY/design1-cha1.png" width="290" height="400" /></div>
-                            <div id="chrbase1"><img src="img/P2D1/JERSEY/design1-chr1.png" width="290" height="400" /></div>  
-                            <div id="colbase1"><img src="img/P2D1/JERSEY/design1-col1.png" width="290" height="400" /></div>
-                            <div id="gldbase1"><img src="img/P2D1/JERSEY/design1-gld1.png" width="290" height="400" /></div>  
-                            <div id="fucbase1"><img src="img/P2D1/JERSEY/design1-fuc1.png" width="290" height="400" /></div> 
-                            <div id="hunbase1"><img src="img/P2D1/JERSEY/design1-hun1.png" width="290" height="400" /></div>
-                            <div id="kelbase1"><img src="img/P2D1/JERSEY/design1-kel1.png" width="290" height="400" /></div>
-                            <div id="lembase1"><img src="img/P2D1/JERSEY/design1-lem1.png" width="290" height="400" /></div>
-                            <div id="limbase1"><img src="img/P2D1/JERSEY/design1-lim1.png" width="290" height="400" /></div>
-                            <div id="navbase1"><img src="img/P2D1/JERSEY/design1-nav1.png" width="290" height="400" /></div>
-                            <div id="orgbase1"><img src="img/P2D1/JERSEY/design1-org1.png" width="290" height="400" /></div>
-                            <div id="pnkbase1"><img src="img/P2D1/JERSEY/design1-pnk1.png" width="290" height="400" /></div>
-                            <div id="purbase1"><img src="img/P2D1/JERSEY/design1-pur1.png" width="290" height="400" /></div>
-                            <div id="redbase1"><img src="img/P2D1/JERSEY/design1-red1.png" width="290" height="400" /></div>
-                            <div id="roybase1"><img src="img/P2D1/JERSEY/design1-roy1.png" width="290" height="400" /></div>
-                            <div id="silbase1"><img src="img/P2D1/JERSEY/design1-sil1.png" width="290" height="400" /></div>
-                            <div id="tngbase1"><img src="img/P2D1/JERSEY/design1-tng1.png" width="290" height="400" /></div>
-                            <div id="turbase1"><img src="img/P2D1/JERSEY/design1-tur1.png" width="290" height="400" /></div>
-                            <div id="whtbase1"><img src="img/P2D1/JERSEY/design1-wht1.png" width="290" height="400" /></div>
-                            
-                            <div id="blkbase2"><img src="img/P2D1/JERSEY/design1-blk2.png" width="290" height="400" /></div>
-                            <div id="burbase2"><img src="img/P2D1/JERSEY/design1-bur2.png" width="290" height="400" /></div>
-                            <div id="chabase2"><img src="img/P2D1/JERSEY/design1-cha2.png" width="290" height="400" /></div>
-                            <div id="chrbase2"><img src="img/P2D1/JERSEY/design1-chr2.png" width="290" height="400" /></div>  
-                            <div id="colbase2"><img src="img/P2D1/JERSEY/design1-col2.png" width="290" height="400" /></div>
-                            <div id="fucbase2"><img src="img/P2D1/JERSEY/design1-fuc2.png" width="290" height="400" /></div>
-                            <div id="gldbase2"><img src="img/P2D1/JERSEY/design1-gld2.png" width="290" height="400" /></div>  
-                            <div id="hunbase2"><img src="img/P2D1/JERSEY/design1-hun2.png" width="290" height="400" /></div>
-                            <div id="kelbase2"><img src="img/P2D1/JERSEY/design1-kel2.png" width="290" height="400" /></div>
-                            <div id="lembase2"><img src="img/P2D1/JERSEY/design1-lem2.png" width="290" height="400" /></div>
-                            <div id="limbase2"><img src="img/P2D1/JERSEY/design1-lim2.png" width="290" height="400" /></div>
-                            <div id="navbase2"><img src="img/P2D1/JERSEY/design1-nav2.png" width="290" height="400" /></div>
-                            <div id="orgbase2"><img src="img/P2D1/JERSEY/design1-org2.png" width="290" height="400" /></div>
-                            <div id="pnkbase2"><img src="img/P2D1/JERSEY/design1-pnk2.png" width="290" height="400" /></div>
-                            <div id="purbase2"><img src="img/P2D1/JERSEY/design1-pur2.png" width="290" height="400" /></div>
-                            <div id="redbase2"><img src="img/P2D1/JERSEY/design1-red2.png" width="290" height="400" /></div>
-                            <div id="roybase2"><img src="img/P2D1/JERSEY/design1-roy2.png" width="290" height="400" /></div>
-                            <div id="silbase2"><img src="img/P2D1/JERSEY/design1-sil2.png" width="290" height="400" /></div>
-                            <div id="tngbase2"><img src="img/P2D1/JERSEY/design1-tng2.png" width="290" height="400" /></div>
-                            <div id="turbase2"><img src="img/P2D1/JERSEY/design1-tur2.png" width="290" height="400" /></div>
-                            <div id="whtbase2"><img src="img/P2D1/JERSEY/design1-wht2.png" width="290" height="400" /></div>
-                            
-                            
+
+                            <div id="blksho1"><img src="assets/img/P2D1/SHORT/design1-short-blk1.png" width="290" height="400" /></div>
+                            <div id="bursho1"><img src="assets/img/P2D1/SHORT/design1-short-bur1.png" width="290" height="400" /></div>
+                            <div id="chasho1"><img src="assets/img/P2D1/SHORT/design1-short-cha1.png" width="290" height="400" /></div>
+                            <div id="chrsho1"><img src="assets/img/P2D1/SHORT/design1-short-chr1.png" width="290" height="400" /></div>
+                            <div id="colsho1"><img src="assets/img/P2D1/SHORT/design1-short-col1.png" width="290" height="400" /></div>
+                            <div id="gldsho1"><img src="assets/img/P2D1/SHORT/design1-short-gld1.png" width="290" height="400" /></div>
+                            <div id="hunsho1"><img src="assets/img/P2D1/SHORT/design1-short-hun1.png" width="290" height="400" /></div>
+                            <div id="kelsho1"><img src="assets/img/P2D1/SHORT/design1-short-kel1.png" width="290" height="400" /></div>
+                            <div id="limsho1"><img src="assets/img/P2D1/SHORT/design1-short-lim1.png" width="290" height="400" /></div>
+                            <div id="navsho1"><img src="assets/img/P2D1/SHORT/design1-short-nav1.png" width="290" height="400" /></div>
+                            <div id="orgsho1"><img src="assets/img/P2D1/SHORT/design1-short-org1.png" width="290" height="400" /></div>
+                            <div id="pnksho1"><img src="assets/img/P2D1/SHORT/design1-short-pnk1.png" width="290" height="400" /></div>
+                            <div id="pursho1"><img src="assets/img/P2D1/SHORT/design1-short-pur1.png" width="290" height="400" /></div>
+                            <div id="redsho1"><img src="assets/img/P2D1/SHORT/design1-short-red1.png" width="290" height="400" /></div>
+                            <div id="roysho1"><img src="assets/img/P2D1/SHORT/design1-short-roy1.png" width="290" height="400" /></div>
+                            <div id="silsho1"><img src="assets/img/P2D1/SHORT/design1-short-sil1.png" width="290" height="400" /></div>
+                            <div id="tursho1"><img src="assets/img/P2D1/SHORT/design1-short-tur1.png" width="290" height="400" /></div>
+                            <div id="whtsho1"><img src="assets/img/P2D1/SHORT/design1-short-wht1.png" width="290" height="400" /></div>
+
+                            <div id="blksho2"><img src="assets/img/P2D1/SHORT/design1-short-blk2.png" width="290" height="400" /></div>
+                            <div id="bursho2"><img src="assets/img/P2D1/SHORT/design1-short-bur2.png" width="290" height="400" /></div>
+                            <div id="chasho2"><img src="assets/img/P2D1/SHORT/design1-short-cha2.png" width="290" height="400" /></div>
+                            <div id="chrsho2"><img src="assets/img/P2D1/SHORT/design1-short-chr2.png" width="290" height="400" /></div>
+                            <div id="colsho2"><img src="assets/img/P2D1/SHORT/design1-short-col2.png" width="290" height="400" /></div>
+                            <div id="fucsho2"><img src="assets/img/P2D1/SHORT/design1-short-fuc2.png" width="290" height="400" /></div>
+                            <div id="gldsho2"><img src="assets/img/P2D1/SHORT/design1-short-gld2.png" width="290" height="400" /></div>
+                            <div id="hunsho2"><img src="assets/img/P2D1/SHORT/design1-short-hun2.png" width="290" height="400" /></div>
+                            <div id="kelsho2"><img src="assets/img/P2D1/SHORT/design1-short-kel2.png" width="290" height="400" /></div>
+                            <div id="lemsho2"><img src="assets/img/P2D1/SHORT/design1-short-lem2.png" width="290" height="400" /></div>
+                            <div id="limsho2"><img src="assets/img/P2D1/SHORT/design1-short-lim2.png" width="290" height="400" /></div>
+                            <div id="navsho2"><img src="assets/img/P2D1/SHORT/design1-short-nav2.png" width="290" height="400" /></div>
+                            <div id="orgsho2"><img src="assets/img/P2D1/SHORT/design1-short-org2.png" width="290" height="400" /></div>
+                            <div id="pnksho2"><img src="assets/img/P2D1/SHORT/design1-short-pnk2.png" width="290" height="400" /></div>
+                            <div id="pursho2"><img src="assets/img/P2D1/SHORT/design1-short-pur2.png" width="290" height="400" /></div>
+                            <div id="redsho2"><img src="assets/img/P2D1/SHORT/design1-short-red2.png" width="290" height="400" /></div>
+                            <div id="roysho2"><img src="assets/img/P2D1/SHORT/design1-short-roy2.png" width="290" height="400" /></div>
+                            <div id="silsho2"><img src="assets/img/P2D1/SHORT/design1-short-sil2.png" width="290" height="400" /></div>
+                            <div id="tursho2"><img src="assets/img/P2D1/SHORT/design1-short-tur2.png" width="290" height="400" /></div>
+                            <div id="tngsho2"><img src="assets/img/P2D1/SHORT/design1-short-tng2.png" width="290" height="400" /></div>
+                            <div id="whtsho2"><img src="assets/img/P2D1/SHORT/design1-short-wht2.png" width="290" height="400" /></div>
+
+
+
+
+                            <div id="blkbase1"><img src="assets/img/P2D1/JERSEY/design1-blk1.png" width="290" height="400" /></div>
+                            <div id="burbase1"><img src="assets/img/P2D1/JERSEY/design1-bur1.png" width="290" height="400" /></div>
+                            <div id="chabase1"><img src="assets/img/P2D1/JERSEY/design1-cha1.png" width="290" height="400" /></div>
+                            <div id="chrbase1"><img src="assets/img/P2D1/JERSEY/design1-chr1.png" width="290" height="400" /></div>
+                            <div id="colbase1"><img src="assets/img/P2D1/JERSEY/design1-col1.png" width="290" height="400" /></div>
+                            <div id="gldbase1"><img src="assets/img/P2D1/JERSEY/design1-gld1.png" width="290" height="400" /></div>
+                            <div id="fucbase1"><img src="assets/img/P2D1/JERSEY/design1-fuc1.png" width="290" height="400" /></div>
+                            <div id="hunbase1"><img src="assets/img/P2D1/JERSEY/design1-hun1.png" width="290" height="400" /></div>
+                            <div id="kelbase1"><img src="assets/img/P2D1/JERSEY/design1-kel1.png" width="290" height="400" /></div>
+                            <div id="lembase1"><img src="assets/img/P2D1/JERSEY/design1-lem1.png" width="290" height="400" /></div>
+                            <div id="limbase1"><img src="assets/img/P2D1/JERSEY/design1-lim1.png" width="290" height="400" /></div>
+                            <div id="navbase1"><img src="assets/img/P2D1/JERSEY/design1-nav1.png" width="290" height="400" /></div>
+                            <div id="orgbase1"><img src="assets/img/P2D1/JERSEY/design1-org1.png" width="290" height="400" /></div>
+                            <div id="pnkbase1"><img src="assets/img/P2D1/JERSEY/design1-pnk1.png" width="290" height="400" /></div>
+                            <div id="purbase1"><img src="assets/img/P2D1/JERSEY/design1-pur1.png" width="290" height="400" /></div>
+                            <div id="redbase1"><img src="assets/img/P2D1/JERSEY/design1-red1.png" width="290" height="400" /></div>
+                            <div id="roybase1"><img src="assets/img/P2D1/JERSEY/design1-roy1.png" width="290" height="400" /></div>
+                            <div id="silbase1"><img src="assets/img/P2D1/JERSEY/design1-sil1.png" width="290" height="400" /></div>
+                            <div id="tngbase1"><img src="assets/img/P2D1/JERSEY/design1-tng1.png" width="290" height="400" /></div>
+                            <div id="turbase1"><img src="assets/img/P2D1/JERSEY/design1-tur1.png" width="290" height="400" /></div>
+                            <div id="whtbase1"><img src="assets/img/P2D1/JERSEY/design1-wht1.png" width="290" height="400" /></div>
+
+                            <div id="blkbase2"><img src="assets/img/P2D1/JERSEY/design1-blk2.png" width="290" height="400" /></div>
+                            <div id="burbase2"><img src="assets/img/P2D1/JERSEY/design1-bur2.png" width="290" height="400" /></div>
+                            <div id="chabase2"><img src="assets/img/P2D1/JERSEY/design1-cha2.png" width="290" height="400" /></div>
+                            <div id="chrbase2"><img src="assets/img/P2D1/JERSEY/design1-chr2.png" width="290" height="400" /></div>
+                            <div id="colbase2"><img src="assets/img/P2D1/JERSEY/design1-col2.png" width="290" height="400" /></div>
+                            <div id="fucbase2"><img src="assets/img/P2D1/JERSEY/design1-fuc2.png" width="290" height="400" /></div>
+                            <div id="gldbase2"><img src="assets/img/P2D1/JERSEY/design1-gld2.png" width="290" height="400" /></div>
+                            <div id="hunbase2"><img src="assets/img/P2D1/JERSEY/design1-hun2.png" width="290" height="400" /></div>
+                            <div id="kelbase2"><img src="assets/img/P2D1/JERSEY/design1-kel2.png" width="290" height="400" /></div>
+                            <div id="lembase2"><img src="assets/img/P2D1/JERSEY/design1-lem2.png" width="290" height="400" /></div>
+                            <div id="limbase2"><img src="assets/img/P2D1/JERSEY/design1-lim2.png" width="290" height="400" /></div>
+                            <div id="navbase2"><img src="assets/img/P2D1/JERSEY/design1-nav2.png" width="290" height="400" /></div>
+                            <div id="orgbase2"><img src="assets/img/P2D1/JERSEY/design1-org2.png" width="290" height="400" /></div>
+                            <div id="pnkbase2"><img src="assets/img/P2D1/JERSEY/design1-pnk2.png" width="290" height="400" /></div>
+                            <div id="purbase2"><img src="assets/img/P2D1/JERSEY/design1-pur2.png" width="290" height="400" /></div>
+                            <div id="redbase2"><img src="assets/img/P2D1/JERSEY/design1-red2.png" width="290" height="400" /></div>
+                            <div id="roybase2"><img src="assets/img/P2D1/JERSEY/design1-roy2.png" width="290" height="400" /></div>
+                            <div id="silbase2"><img src="assets/img/P2D1/JERSEY/design1-sil2.png" width="290" height="400" /></div>
+                            <div id="tngbase2"><img src="assets/img/P2D1/JERSEY/design1-tng2.png" width="290" height="400" /></div>
+                            <div id="turbase2"><img src="assets/img/P2D1/JERSEY/design1-tur2.png" width="290" height="400" /></div>
+                            <div id="whtbase2"><img src="assets/img/P2D1/JERSEY/design1-wht2.png" width="290" height="400" /></div>
+
+<!--
                             <div id="blkbase3"><img src="img/P2D1/JERSEY/design1-blk3.png" width="290" height="400" /></div>
                             <div id="burbase3"><img src="img/P2D1/JERSEY/design1-bur3.png" width="290" height="400" /></div>
                             <div id="chabase3"><img src="img/P2D1/JERSEY/design1-cha3.png" width="290" height="400" /></div>
-                            <div id="chrbase3"><img src="img/P2D1/JERSEY/design1-chr3.png" width="290" height="400" /></div>  
+                            <div id="chrbase3"><img src="img/P2D1/JERSEY/design1-chr3.png" width="290" height="400" /></div>
                             <div id="colbase3"><img src="img/P2D1/JERSEY/design1-col3.png" width="290" height="400" /></div>
                             <div id="fucbase3"><img src="img/P2D1/JERSEY/design1-fuc3.png" width="290" height="400" /></div>
-                            <div id="gldbase3"><img src="img/P2D1/JERSEY/design1-gld3.png" width="290" height="400" /></div>  
+                            <div id="gldbase3"><img src="img/P2D1/JERSEY/design1-gld3.png" width="290" height="400" /></div>
                             <div id="hunbase3"><img src="img/P2D1/JERSEY/design1-hun3.png" width="290" height="400" /></div>
                             <div id="kelbase3"><img src="img/P2D1/JERSEY/design1-kel3.png" width="290" height="400" /></div>
                             <div id="lembase3"><img src="img/P2D1/JERSEY/design1-lem3.png" width="290" height="400" /></div>
@@ -1824,15 +1824,15 @@ function MM_showHideLayers() { //v9.0
                             <div id="silbase3"><img src="img/P2D1/JERSEY/design1-sil3.png" width="290" height="400" /></div>
                             <div id="tngbase3"><img src="img/P2D1/JERSEY/design1-tng3.png" width="290" height="400" /></div>
                             <div id="turbase3"><img src="img/P2D1/JERSEY/design1-tur3.png" width="290" height="400" /></div>
-                            <div id="whtbase3"><img src="img/P2D1/JERSEY/design1-wht3.png" width="290" height="600" /></div>
-                            
+                            <div id="whtbase3"><img src="img/P2D1/JERSEY/design1-wht3.png" width="290" height="600" /></div> -->
+
                                 </div>
-						
+
 					</div>
                     <!-- Uniform Created End -->
 
 					<div class="col-sm-6 col-md-4 m-b-sm-30">
-                    
+
 						<div align="center">
                         <table border="0" cellspacing="0">
                         <tr>
@@ -1856,64 +1856,77 @@ function MM_showHideLayers() { //v9.0
                         <tr>
                           <td><span title="BLK"><img src="assets/images/Uniforms/swatches/blk.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnblk.png'" onmouseout="this.src='assets/images/Uniforms/swatches/blk.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blkbase1','','show','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'BLK'" /></span></td>
                           <td><span title="BUR"><img src="assets/images/Uniforms/swatches/bur.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnbur.png'" onmouseout="this.src='assets/images/Uniforms/swatches/bur.png'" alt="." width="20" height="20" onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','show','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'BUR'" /></span></td>
-                          <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','show','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'CHA'" /></span></td>
+                          <!-- <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','show','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'CHA'" /></span></td> -->
                           <td><span title="CHR"><img src="assets/images/Uniforms/swatches/chr.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnchr.png'" onmouseout="this.src='assets/images/Uniforms/swatches/chr.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','show','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'CHR'" /></span></td>
                           <td><span title="COL"><img src="assets/images/Uniforms/swatches/col.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncol.png'" onmouseout="this.src='assets/images/Uniforms/swatches/col.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','show','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'COL'" /></span></td>
                           <td><span title="GLD"><img src="assets/images/Uniforms/swatches/gld.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwngld.png'" onmouseout="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','show','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'GLD'" /></span></td>
+                              <td><span title="HUN"><img src="assets/images/Uniforms/swatches/hun.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onmouseout="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','show','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'HUN'" /></span></td>
                           <td>&nbsp;</td>
                           <td><span title="BLK"><img src="assets/images/Uniforms/swatches/blk.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnblk.png'" onmouseout="this.src='assets/images/Uniforms/swatches/blk.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blkbase2','','show','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'BLK'" /></span></td>
                           <td><em><span title="BUR"><img src="assets/images/Uniforms/swatches/bur.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnbur.png'" onmouseout="this.src='assets/images/Uniforms/swatches/bur.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','show','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'BUR'" /></span></em></td>
-                          <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="8"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','show','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td>
+                          <!-- <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="8"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','show','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td> -->
                           <td><span title="CHR"><img src="assets/images/Uniforms/swatches/chr.png" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','show','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'CHR'" onmouseover="this.src='assets/images/Uniforms/swatches/dwnchr.png'" onmouseout="this.src='assets/images/Uniforms/swatches/chr.png'" /></span></td>
                           <td><span title="COL"><img src="assets/images/Uniforms/swatches/col.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncol.png'" onmouseout="this.src='assets/images/Uniforms/swatches/col.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','show','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','lembase2','','hide','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'COL'" /></span></td>
-                          <td><img src="assets/images/Uniforms/swatches/fuc.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnfuc.png'" onmouseout="this.src='assets/images/Uniforms/swatches/fuc.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','show','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'FUC'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/gld.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwngld.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','show','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'GLD'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/hun.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','show','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'HUN'" /></td>
+                          <!-- <td><img src="assets/images/Uniforms/swatches/fuc.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnfuc.png'" onmouseout="this.src='assets/images/Uniforms/swatches/fuc.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','show','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'FUC'" /></td> -->
                         </tr>
                         <tr>
-                          <td><span title="HUN"><img src="assets/images/Uniforms/swatches/hun.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onmouseout="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','show','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'HUN'" /></span></td>
+
                           <td><span title="KEL"><img src="assets/images/Uniforms/swatches/kel.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnkel.png'" onmouseout="this.src='assets/images/Uniforms/swatches/kel.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','show','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'KEL'" /></span></td>
                           <td><span title="LIM"><img src="assets/images/Uniforms/swatches/nav.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnnav.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/nav.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','show','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'NAV'" /></span></td>
                           <td><img src="assets/images/Uniforms/swatches/org.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnorg.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/org.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','show','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'ORG'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','show','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'PNK'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','show','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'PUR'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','show','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'RED'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','show','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'ROY'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','show','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'SIL'" /></td>
+
+
+
+                          <!-- <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','show','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'PNK'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','show','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'PUR'" /></td> -->
                           <td>&nbsp;</td>
-                          <td><img src="assets/images/Uniforms/swatches/gld.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwngld.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','show','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'GLD'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/hun.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','show','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'HUN'" /></td>
+
                           <td><img src="assets/images/Uniforms/swatches/kel.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnkel.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/kel.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','show','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'KEL'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/lem.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnlem.png'" onmouseout="this.src='assets/images/Uniforms/swatches/lem.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','show','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'LEM'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/lim.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnlim.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/lim.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','show','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'LIM'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/nav.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnnav.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/nav.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','show','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'NAV'" /></td>
-                        </tr>
-                        <tr>
-                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','show','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'RED'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','show','silbase1','','hide','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'ROY'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','show','turbase1','','hide','whtbase1','','hide');document.getElementById('ballcolor1').value = 'SIL'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','show');document.getElementById('ballcolor1').value = 'WHT'" /></td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
                           <td><img src="assets/images/Uniforms/swatches/org.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnorg.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/org.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','show','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'ORG'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','show','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'PNK'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="13"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','show','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'PUR'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','show','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'RED'" /></td>
+                          <tr><td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase1','','hide','burbase1','','hide','chabase1','','hide','chrbase1','','hide','colbase1','','hide','gldbase1','','hide','hunbase1','','hide','kelbase1','','hide','limbase1','','hide','navbase1','','hide','orgbase1','','hide','pnkbase1','','hide','purbase1','','hide','redbase1','','hide','roybase1','','hide','silbase1','','hide','turbase1','','hide','whtbase1','','show');document.getElementById('ballcolor1').value = 'WHT'" /></td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
                           <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','show','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'ROY'" /></td>
+
                           <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','show','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'SIL'" /></td>
-                        </tr>
-                        <tr>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                          <td>&nbsp;</td>
-                           <td><img src="assets/images/Uniforms/swatches/tng.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwntng.png'" onmouseout="this.src='assets/images/Uniforms/swatches/tng.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','show','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'TNG'" /></td>
-                           <td><img src="assets/images/Uniforms/swatches/tur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwntur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/tur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','show','whtbase2','','hide');document.getElementById('ballcolor2').value = 'TUR'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/tur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwntur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/tur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','show','whtbase2','','hide');document.getElementById('ballcolor2').value = 'TUR'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','show');document.getElementById('ballcolor2').value = 'WHT'" /></td>
+
+
+
+                          <!-- <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','show','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'PNK'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="13"onClick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','show','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','hide','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'PUR'" /></td> -->
+
+
+                        </tr>
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                           <!-- <td><img src="assets/images/Uniforms/swatches/tng.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwntng.png'" onmouseout="this.src='assets/images/Uniforms/swatches/tng.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase2','','hide','burbase2','','hide','chabase2','','hide','chrbase2','','hide','colbase2','','hide','fucbase2','','hide','gldbase2','','hide','hunbase2','','hide','kelbase2','','hide','lembase2','','hide','limbase2','','hide','navbase2','','hide','orgbase2','','hide','pnkbase2','','hide','purbase2','','hide','redbase2','','hide','roybase2','','hide','silbase2','','hide','tngbase2','','show','turbase2','','hide','whtbase2','','hide');document.getElementById('ballcolor2').value = 'TNG'" /></td> -->
+
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                           <td colspan="13"><div align="center">Tertiary Color</div></td>
                         </tr>
                         <tr>
@@ -1945,9 +1958,11 @@ function MM_showHideLayers() { //v9.0
                           <td><span title="WHT"><img src="assets/images/Uniforms/swatches/wht.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onmouseout="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blkbase3','','hide','burbase3','','hide','chabase3','','hide','chrbase3','','hide','colbase3','','hide','gldbase3','','hide','hunbase3','','hide','kelbase3','','hide','limbase3','','hide','navbase3','','hide','orgbase3','','hide','pnkbase3','','hide','purbase3','','hide','redbase3','','hide','roybase3','','hide','silbase3','','hide','turbase3','','hide','whtbase3','','show');document.getElementById('ballcolor3').value = 'WHT'" /></span></td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
-                        </tr>
+                        </tr> -->
+
+
                         <tr>
-                          <td colspan="13"><div align="center"><strong><font color="#6D6E71">Short</font></strong></div></td>
+                          <td colspan="13"><div align="center"><strong><font color="#6D6E71">Shorts</font></strong></div></td>
                         </tr>
                         <tr>
                           <td colspan="6"><div align="center">Main Color</div></td>
@@ -1957,47 +1972,57 @@ function MM_showHideLayers() { //v9.0
                         <tr>
                           <td><span title="BLK"><img src="assets/images/Uniforms/swatches/blk.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnblk.png'" onmouseout="this.src='assets/images/Uniforms/swatches/blk.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blksho1','','show','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'BLK'" /></span></td>
                           <td><span title="BUR"><em><img src="assets/images/Uniforms/swatches/bur.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnbur.png'" onmouseout="this.src='assets/images/Uniforms/swatches/bur.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blksho1','','hide','bursho1','','show','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'BUR'" /></em></span></td>
-                          <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="8"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','show','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td>
+                          <!-- <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="8"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','show','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td> -->
                           <td><span title="CHR"><img src="assets/images/Uniforms/swatches/chr.png" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','show','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'CHR'" onmouseover="this.src='assets/images/Uniforms/swatches/dwnchr.png'" onmouseout="this.src='assets/images/Uniforms/swatches/chr.png'" /></span></td>
                           <td><span title="COL"><img src="assets/images/Uniforms/swatches/col.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncol.png'" onmouseout="this.src='assets/images/Uniforms/swatches/col.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','show','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'COL'" /></span></td>
                           <td><span title="GLD"><img src="assets/images/Uniforms/swatches/gld.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwngld.png'" onmouseout="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','show','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'GLD'" /></span></td>
+                          <td><span title="HUN"><img src="assets/images/Uniforms/swatches/hun.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onmouseout="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','show','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'HUN'" /></span></td>
                           <td>&nbsp;</td>
                           <td><span title="BLK"><img src="assets/images/Uniforms/swatches/blk.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnblk.png'" onmouseout="this.src='assets/images/Uniforms/swatches/blk.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blksho2','','show','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'BLK'" /></span></td>
                           <td><em><span title="BUR"><img src="assets/images/Uniforms/swatches/bur.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnbur.png'" onmouseout="this.src='assets/images/Uniforms/swatches/bur.png'" alt="s" width="20" height="20" onclick="MM_showHideLayers('blksho2','','hide','bursho2','','show','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtbase2','','hide');document.getElementById('shocolor2').value = 'BUR'" /></span></em></td>
-                          <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','show','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td>
+                          <!-- <td><span title="CHA"><img src="assets/images/Uniforms/swatches/cha.png" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','show','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'CHA'" onmouseover="this.src='assets/images/Uniforms/swatches/dwncha.png'" onmouseout="this.src='assets/images/Uniforms/swatches/cha.png'" /></span></td> -->
                           <td><span title="CHR"><img src="assets/images/Uniforms/swatches/chr.png" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','show','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'CHR'" onmouseover="this.src='assets/images/Uniforms/swatches/dwnchr.png'" onmouseout="this.src='assets/images/Uniforms/swatches/chr.png'" /></span></td>
                           <td><span title="COL"><img src="assets/images/Uniforms/swatches/col.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwncol.png'" onmouseout="this.src='assets/images/Uniforms/swatches/col.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','show','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'COL'" /></span></td>
-                          <td><img src="assets/images/Uniforms/swatches/fuc.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnfuc.png'" onmouseout="this.src='assets/images/Uniforms/swatches/fuc.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','show','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'FUC'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/gld.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwngld.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','show','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'GLD'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/hun.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','show','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'HUN'" /></td>
+                          <!-- <td><img src="assets/images/Uniforms/swatches/fuc.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnfuc.png'" onmouseout="this.src='assets/images/Uniforms/swatches/fuc.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','show','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'FUC'" /></td> -->
                         </tr>
                         <tr>
-                          <td><span title="HUN"><img src="assets/images/Uniforms/swatches/hun.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onmouseout="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','show','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'HUN'" /></span></td>
+
                           <td><span title="KEL"><img src="assets/images/Uniforms/swatches/kel.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnkel.png'" onmouseout="this.src='assets/images/Uniforms/swatches/kel.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','show','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'KEL'" /></span></td>
                           <td><img src="assets/images/Uniforms/swatches/nav.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnnav.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/nav.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','show','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'NAV'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/org.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnorg.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/org.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','show','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'ORG'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','show','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'PNK'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','show','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'PUR'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','show','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'RED'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','show','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'ROY'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','show','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'SIL'" /></td>
+                          <!-- <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','show','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'PNK'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','show','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'PUR'" /></td> -->
                           <td>&nbsp;</td>
-                          <td><img src="assets/images/Uniforms/swatches/gld.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwngld.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/gld.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','show','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'GLD'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/hun.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnhun.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/hun.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','show','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'HUN'" /></td>
+
                           <td><img src="assets/images/Uniforms/swatches/kel.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnkel.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/kel.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','show','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'KEL'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/lem.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwnlem.png'" onmouseout="this.src='assets/images/Uniforms/swatches/lem.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','show','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'LEM'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/lim.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnlim.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/lim.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','show','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'LIM'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/nav.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnnav.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/nav.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','show','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'NAV'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/org.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnorg.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/org.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','show','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'ORG'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','show','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'RED'" /></td>
                         </tr>
                         <tr>
-                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','show','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'RED'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','show','silsho1','','hide','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'ROY'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','show','tursho1','','hide','whtsho1','','hide');document.getElementById('shocolor1').value = 'SIL'" /></td>
+
                           <td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho1','','hide','bursho1','','hide','chasho1','','hide','chrsho1','','hide','colsho1','','hide','gldsho1','','hide','hunsho1','','hide','kelsho1','','hide','limsho1','','hide','navsho1','','hide','orgsho1','','hide','pnksho1','','hide','pursho1','','hide','redsho1','','hide','roysho1','','hide','silsho1','','hide','tursho1','','hide','whtsho1','','show');document.getElementById('shocolor1').value = 'WHT'" /></td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
-                          <td><img src="assets/images/Uniforms/swatches/org.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnorg.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/org.png'" alt="s" width="20" height="8"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','show','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'ORG'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','show','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'PNK'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','show','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'PUR'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/red.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnred.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/red.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','show','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'RED'" /></td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+                          <td>&nbsp;</td>
+
+                          <!-- <td><img src="assets/images/Uniforms/swatches/pnk.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpnk.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pnk.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','show','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'PNK'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/pur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnpur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/pur.png'" alt="s" width="20" height="20"onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','show','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'PUR'" /></td> -->
+
                           <td><img src="assets/images/Uniforms/swatches/roy.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnroy.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/roy.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','show','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'ROY'" /></td>
                           <td><img src="assets/images/Uniforms/swatches/sil.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnsil.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/sil.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','lemsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','show','tngsho2','','hide','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'SIL'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/tur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwntur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/tur.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','show','whtsho2','','hide');document.getElementById('shocolor2').value = 'TUR'" /></td>
+                          <td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','show');document.getElementById('shocolor2').value = 'WHT'" /></td>
                         </tr>
                         <tr>
                           <td>&nbsp;</td>
@@ -2007,14 +2032,13 @@ function MM_showHideLayers() { //v9.0
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
-                           <td><img src="assets/images/Uniforms/swatches/tng.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwntng.png'" onmouseout="this.src='assets/images/Uniforms/swatches/tng.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','show','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'TNG'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/tur.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwntur.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/tur.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','show','whtsho2','','hide');document.getElementById('shocolor2').value = 'TUR'" /></td>
-                          <td><img src="assets/images/Uniforms/swatches/wht.png" onMouseOver="this.src='assets/images/Uniforms/swatches/dwnwht.png'" onMouseOut="this.src='assets/images/Uniforms/swatches/wht.png'" alt="s" width="20" height="20" onClick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','hide','tursho2','','hide','whtsho2','','show');document.getElementById('shocolor2').value = 'WHT'" /></td>
+                           <!-- <td><img src="assets/images/Uniforms/swatches/tng.png" onmouseover="this.src='assets/images/Uniforms/swatches/dwntng.png'" onmouseout="this.src='assets/images/Uniforms/swatches/tng.png'" alt="s" width="20" height="20"onclick="MM_showHideLayers('blksho2','','hide','bursho2','','hide','chasho2','','hide','chrsho2','','hide','colsho2','','hide','fucsho2','','hide','gldsho2','','hide','hunsho2','','hide','kelsho2','','hide','limsho2','','hide','navsho2','','hide','orgsho2','','hide','pnksho2','','hide','pursho2','','hide','redsho2','','hide','roysho2','','hide','silsho2','','hide','tngsho2','','show','tursho2','','hide','whtsho2','','hide');document.getElementById('shocolor2').value = 'TNG'" /></td> -->
+
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-      <tr>
+      <!-- <tr>
         <td colspan="13"><div align="center"><font color="#6D6E71"><strong>Socks</strong></font></div></td>
       </tr>
       <tr>
@@ -2046,7 +2070,7 @@ function MM_showHideLayers() { //v9.0
         <td><em><span title="WHT/WHT" style=""><img src="assets/images/Uniforms/478/socks/swatches/828-WHTWHT.png" onmouseover="this.src='assets/images/Uniforms/478/socks/swatches/down_828-WHTWHT.png'" onmouseout="this.src='assets/images/Uniforms/478/socks/swatches/828-WHTWHT.png'" alt="s" width="20" height="20" onclick="document.getElementById('ink2').value = '828-WHT/WHT';MM_showHideLayers('blksoc','','hide','bursoc','','hide','chrsoc','','hide','colsoc','','hide','gldsoc','','hide','hunsoc','','hide','navsoc','','hide','orgsoc','','hide','redsoc','','hide','roysoc','','hide','wblsoc','','hide','wbusoc','','hide','wglsoc','','hide','whusoc','','hide','wnasoc','','hide','wresoc','','hide','wrosoc','','hide','wwhsoc','','show')" /></span></em></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
-        </tr>
+        </tr> -->
       <tr>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -2067,7 +2091,7 @@ function MM_showHideLayers() { //v9.0
         © 2018 <a href="#">SCORE</a>, <br />
           American Soccer Company, Inc.</p></td>
       </tr>
-                        </table>					  
+                        </table>
                     </div>
                     </div>
                             <!-- Uniform Selection End-->
@@ -2125,12 +2149,12 @@ function MM_showHideLayers() { //v9.0
     <span id='contactus_email_errorloc' class='error'></span>
 </div>
 
-<div style="width:240px">
+<!-- <div style="width:240px">
     <label for='email' ><font color="#6D6E71">Tertiary Jersey Color*:</font></label>
     <br/>
     <input type='text' name='Tertiary Color' id='ballcolor3' value='<?php echo $formproc->SafeDisplay('ballcolor3') ?>' maxlength="50" /><br/>
     <span id='contactus_email_errorloc' class='error'></span>
-</div>
+</div> -->
 
 <div style="width:240px">
     <label for='email' ><font color="#6D6E71">Main Short Color*:</font></label>
@@ -2145,12 +2169,12 @@ function MM_showHideLayers() { //v9.0
     <input type='text' name='Accent Short Color' id='shocolor2' value='<?php echo $formproc->SafeDisplay('shocolor2') ?>' maxlength="50" /><br/>
     <span id='contactus_email_errorloc' class='error'></span>
 </div>
-<div style="width:240px">
+<!-- <div style="width:240px">
     <label for='email' ><font color="#6D6E71">Sock Color*:</font></label>
     <br/>
     <input type='text' name='Sock Color' id='ink2' value='<?php echo $formproc->SafeDisplay('ink2') ?>' maxlength="50" /><br/>
     <span id='contactus_email_errorloc' class='error'></span>
-</div>
+</div> -->
 <div style="width:240px">
     <label for='email' ><font color="#6D6E71">Quantity*:</font></label>
     <br/>
@@ -2205,21 +2229,21 @@ Uses the excellent form validation script from JavaScript-coder.com-->
     frmvalidator.addValidation("photo","file_extn=jpg;jpeg;gif;png;bmp","Upload images only. Supported file types are: jpg,gif,png,bmp");
 // ]]>
 </script>
-							
+
 				<!-- /PROJECT DETAILS -->
 
 			</div>
 
 		</section>
 		<!-- /SINGLE PORTFOLIO -->
-        
+
         <section class="module">
 
 			<div class="container">
         <div class="row">
-        	
+
         		<p><center style="padding:20px" >All images and artwork are the exclusive property of SCORE, American Soccer Company, Inc. (except for customer trademarks) and are protected under U.S. And international copyright treaties. Artwork and image may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express, written permission of SCORE, American Soccer Company, Inc.</center></p>
-        	
+
         </div>
 		</div>
         </section>
@@ -2254,7 +2278,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 								<div class="work-caption font-alt">
 									<h3 class="work-title">Striker No.9740</h3>
 									<div class="work-descr">
-										PLAYER ACCESSORIE 
+										PLAYER ACCESSORIE
 									</div>
 								</div>
 							</a>
@@ -2288,7 +2312,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 							</a>
 						</div>
 						<!-- /PORTFOLIO ITEM -->
-                        
+
                         <!-- PORTFOLIO ITEM -->
 						<div class="work-item design">
 							<a href="http://scoresports.com/909.html">
@@ -2299,7 +2323,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 										PLAYER ACCESSORIE
 									</div>
 								</div>
-							<a href="http://soccer.scoresports.com/soccer/accessories/coaches/captain-arm-band-no-699.html" class="inactiveLink1"></a>							
+							<a href="http://soccer.scoresports.com/soccer/accessories/coaches/captain-arm-band-no-699.html" class="inactiveLink1"></a>
 						</div>
 						<!-- /PORTFOLIO ITEM -->
 
@@ -2317,36 +2341,36 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 		<footer class="module bg-light">
 
 			<div class="container">
-			
+
 				<div class="row">
-			
+
 					<div class="col-sm-12">
-			
+
 						<ul class="social-text-links font-alt text-center m-b-20">
 							<li><a href="https://www.facebook.com/Scoresports?_rdr=p"><h4>Facebook</h4></a></li>
 							<li><a href="https://twitter.com/scoresports"><h4>Twitter</h4></a></li>
 							<li><a href="https://instagram.com/scoresports/"><h4>Instagram</h4></a></li>
 						</ul>
-			
+
 					</div>
-			
+
 				</div>
-			
+
 				<div class="row">
-			
+
 					<div class="col-sm-12">
-			
+
 						<p class="copyright text-center m-b-0">© 2018 <a href="#">SCORE</a>, All Rights Reserved.</p>
-			
+
 					</div>
-			
+
 				</div>
-			
+
 			</div>
 
 		</footer>
 		<!-- /FOOTER -->
-        
+
         <div id="con3" class="modal fade" tabindex="-1">
  	<div class="modal-dialog" style="background-color:#FFF">
  		<div class="modal-header">
@@ -2362,7 +2386,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 							 <li>2 Pairs of Socks</li>
 						 </ul>
 					   <li>Elite Kit: $80.00 youth/adult</li>
-						 <ul>    
+						 <ul>
 							 <li>2 Jerseys</li>
 							 <li>1 Pair of Shorts</li>
 							 <li>2 Pairs of Socks</li>
@@ -2374,22 +2398,22 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 							 <li>1 Pairs of Socks</li>
 						 </ul>
 					   <li>SCORE Kit: $50.00</li>
-						 <ul>    
+						 <ul>
 							 <li>1 Jerseys</li>
 							 <li>1 Pair of Shorts</li>
 							 <li>1 Pairs of Socks</li>
 						 </ul>
 						 <li>A La Carte Items</li>
-						 <ul>    
+						 <ul>
 							 <li>Jersey: $30.00</li>
 							 <li>Shorts: $20.00</li>
 							 <li>Elite 828 Socks: $6.25</li>
 							 <li>Striped 8100 Socks: $4.45</li>
 						 </ul>
-						 
+
 					   <li>Prices are based on basic custom uniform designs. Prices subject to change depending on uniform &amp; design specifications.</li>
 					   <li>See terms &amp; conditions for additional information</li>
-					   
+
 					 </ul>
 			 </div>
 			 <div class="modal-footer">
@@ -2397,7 +2421,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 			 </div>
 		 </div>
 	  </div>
-	  
+
 			 <div id="con2" class="modal fade" tabindex="-1">
 		  <div class="modal-dialog" style="background-color:#FFF">
 			  <div class="modal-header">
@@ -2420,7 +2444,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 							 <li>State-of-the-art sublimation capabilities</li>
 							 <li>Earth-Friendly dye production</li>
 						 </ul>
-						 
+
 					 </ul>
 			 </div>
 			 <div class="modal-footer">
@@ -2428,7 +2452,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 			 </div>
 		 </div>
 	  </div>
-			 
+
 			 <div id="con1" class="modal fade" tabindex="-1">
 		  <div class="modal-dialog" style="background-color:#FFF">
 			  <div class="modal-header">
@@ -2462,11 +2486,11 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 							 <li>SCORE YL Similar to a 10-12</li>
 							 <li>SCORE AS Similar to a 14-16</li>
 						 </ul>
-					   <li>This comparison gives an indication of sizes only and are by no means exact as they vary from manufacturer to manufacturer - sometimes by a full inch up and down.</li> 
+					   <li>This comparison gives an indication of sizes only and are by no means exact as they vary from manufacturer to manufacturer - sometimes by a full inch up and down.</li>
 					   <li>No custom uniforms will be manufactured between June ’18 thru September ’18.</li>
 					   <li><font size="3"><b>Limited Time, Custom Uniform Expires April 30, 2018</b></font></li>
 					 </ul>
-					 
+
 			 </div>
 			 <div class="modal-footer">
 				 <button class="btn bton-primary" data-dismiss="modal">Close</button>
